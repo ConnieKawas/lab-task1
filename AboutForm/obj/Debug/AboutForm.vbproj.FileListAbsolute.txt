@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\bin\Debug\AboutForm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\bin\Debug\AboutForm.exe
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\bin\Debug\AboutForm.pdb
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\bin\Debug\AboutForm.xml
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.splashForm.resources
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.exe
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.xml
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.pdb
+c:\users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.formBox.resources
+C:\Users\user\documents\visual studio 2015\Projects\AboutForm\AboutForm\obj\Debug\AboutForm.MainForm.resources
